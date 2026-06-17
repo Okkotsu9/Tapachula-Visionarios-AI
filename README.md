@@ -14,7 +14,7 @@ Desarrollar un sistema básico de análisis visual para partidos de fútbol rob�
 ## Enfoque inicial
 El proyecto buscará analizar videos de fútbol robótico para identificar robots, balón y zonas de actividad durante el partido.
 
-Avance 1 - Detección básica de movimiento
+## Avance 1 - Detección básica de movimiento
 
 Se desarrolló un sistema inicial capaz de:
 - Leer videos mediante OpenCV.
@@ -24,3 +24,17 @@ Se desarrolló un sistema inicial capaz de:
 
 Estado: Funcional.
 Próximo objetivo: seguimiento de trayectorias y análisis de desplazamiento.
+
+## Avance 2 - Detección y seguimiento básico del balón
+
+Se implementó un sistema capaz de:
+
+- Detectar el balón mediante segmentación por color.
+- Calcular la posición del balón en cada fotograma.
+- Dibujar su trayectoria.
+- Generar un video procesado con los resultados.
+
+Estado: Funcional.
+Próximo objetivo: seguimiento de robots y análisis de trayectorias.
+
+
