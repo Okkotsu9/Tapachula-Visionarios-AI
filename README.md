@@ -37,4 +37,16 @@ Se implementó un sistema capaz de:
 Estado: Funcional.
 Próximo objetivo: seguimiento de robots y análisis de trayectorias.
 
+## Avance 3 - Tracking básico de robots
+
+Se implementó un sistema capaz de:
+
+- Detectar múltiples robots.
+- Asignar identificadores básicos.
+- Dibujar trayectorias individuales.
+- Generar un video procesado con seguimiento.
+
+Estado: Funcional.
+Próximo objetivo: análisis combinado de robots y balón.
+
 
