@@ -73,5 +73,10 @@ Estado: Funcional.
 
 Próximo objetivo: generar mapa de calor y visualización de actividad.
 
+## Avance 5 - Visualización de datos
+
+Mapa de calor generado a partir de la posición detectada del balón durante el partido.
+
+El mapa permite identificar zonas de mayor actividad y permanencia del balón dentro del campo.
 
 
