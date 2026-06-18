@@ -14,6 +14,22 @@ Desarrollar un sistema básico de análisis visual para partidos de fútbol rob�
 ## Enfoque inicial
 El proyecto buscará analizar videos de fútbol robótico para identificar robots, balón y zonas de actividad durante el partido.
 
+## Tecnologías utilizadas
+
+- Python 3.11
+- OpenCV
+- NumPy
+- GitHub
+
+## Estructura del proyecto
+
+├── Videos/
+├── codigo/
+├── documentos/
+├── imagenes/
+├── resultados/
+└── README.md
+
 ## Avance 1 - Detección básica de movimiento
 
 Se desarrolló un sistema inicial capaz de:
@@ -78,5 +94,23 @@ Próximo objetivo: generar mapa de calor y visualización de actividad.
 Mapa de calor generado a partir de la posición detectada del balón durante el partido.
 
 El mapa permite identificar zonas de mayor actividad y permanencia del balón dentro del campo.
+
+## Resultados obtenidos
+
+El proyecto logró implementar un sistema básico de visión por computadora para fútbol robótico capaz de:
+
+- Detectar movimiento dentro del campo.
+- Detectar y seguir el balón.
+- Detectar robots y asignar identificadores básicos.
+- Generar trayectorias visuales.
+- Exportar videos procesados automáticamente.
+- Generar mapas de calor para análisis espacial.
+
+Los resultados fueron generados utilizando videos de prueba de fútbol robótico y almacenados en la carpeta de resultados.
+
+
+## Licencia
+
+Este proyecto se distribuye bajo la licencia MIT.
 
 
