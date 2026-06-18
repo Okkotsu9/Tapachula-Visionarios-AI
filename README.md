@@ -49,4 +49,29 @@ Se implementó un sistema capaz de:
 Estado: Funcional.
 Próximo objetivo: análisis combinado de robots y balón.
 
+## Avance 4 - Sistema completo de análisis FutBotMX
+
+Se integró un sistema completo de análisis visual capaz de procesar un video de fútbol robótico y generar un resultado con:
+
+- Detección básica del balón.
+- Seguimiento visual del balón.
+- Detección de robots principales.
+- Asignación de identificadores básicos a robots.
+- Trayectorias de desplazamiento.
+- Panel informativo dentro del video.
+- Exportación automática del video procesado.
+
+Archivo principal:
+
+`código/sistema_completo.py`
+
+Resultado generado:
+
+`resultados/resultado_completo.mp4`
+
+Estado: Funcional.
+
+Próximo objetivo: generar mapa de calor y visualización de actividad.
+
+
 
