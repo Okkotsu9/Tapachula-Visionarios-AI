@@ -128,6 +128,10 @@ El proyecto logró implementar un sistema básico de visión por computadora par
 
 Los resultados fueron almacenados dentro de la carpeta de resultados.
 
+## Reel de Instagram
+
+https://www.instagram.com/reel/DZyovLrqCod/?igsh=MTQ5eWptZXg3N3Jldg==
+
 ## Licencia
 Este proyecto se distribuye bajo la licencia MIT.
 
